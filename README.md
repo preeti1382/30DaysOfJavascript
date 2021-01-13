@@ -7,3 +7,5 @@ Day1 : DrumKit =>
 When you hit the corresponding keys on the keyboard , it will play the sound associated with it and it shows the animation to highlight which key is pressed!
 
 Day2 : Clock  => This is like a simple wall clock!
+
+Day3 : Variables => Changing CSS variables with JS.
