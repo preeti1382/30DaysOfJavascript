@@ -9,3 +9,5 @@ When you hit the corresponding keys on the keyboard , it will play the sound ass
 Day2 : Clock  => This is like a simple wall clock!
 
 Day3 : Variables => Changing CSS variables with JS.
+
+Day4 : Array Cardio Day1 => Simple exercises using some  array functions like sort() , map() , filter() and reduce(). 
